@@ -1,7 +1,9 @@
-import logo from './assets/images/vpng3.png';
+import vance_logo from './assets/images/vpng3.png';
 import mxc_logo from './assets/images/mxc_logo.png';
 import er_logo from './assets/images/er_logo.png';
 import jt_logo from './assets/images/jewelthief_logo.png';
+
+import pufggs_logo from './assets/images/pufggs_logo.png';
 
 import './Home.css';
 import { Button } from 'react-bootstrap';
@@ -11,7 +13,7 @@ function Home() {
   return (
     <div className='Home'>
       <div className='Home-FirstPart'>
-        <img src={logo} className='Home-FirstPart-Logo' />
+        <img src={vance_logo} className='Home-FirstPart-Logo' />
       </div>
 
       <h1>OUR PROJECTS</h1>
@@ -23,10 +25,10 @@ function Home() {
 
       <h1>Contributors</h1>
       <div className='Home-ThirdPart'>
-        <Content image={mxc_logo} title='PuFGGs' type='Software Developer' />
-        <Content image={mxc_logo} title='Hydra Artz' type='Graphic Designer' />
-        <Content image={mxc_logo} title='NewbieDrummer' type='Level Designer / Sound Designer' />
-        <Content image={mxc_logo} title='KaanCer' type='Sound Designer' />
+        <Content image={pufggs_logo} title='PuFGGs' type='Software Developer' borderRadius='25%'/>
+        <Content image={mxc_logo} title='Hydra Artz' type='Graphic Designer' borderRadius='25%'/>
+        <Content image={mxc_logo} title='NewbieDrummer' type='Level Designer / Sound Designer' borderRadius='25%'/>
+        <Content image={mxc_logo} title='KaanCer' type='Sound Designer' borderRadius='25%'/>
       </div>
 
       <h1>Biography</h1>
