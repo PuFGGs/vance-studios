@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vance-studios-website-react/static/css/main.df44121a.css",
-    "main.js": "/vance-studios-website-react/static/js/main.b2b07bf0.js",
+    "main.css": "/vance-studios-website-react/static/css/main.7415b865.css",
+    "main.js": "/vance-studios-website-react/static/js/main.2d15dfab.js",
     "static/js/787.b791b68b.chunk.js": "/vance-studios-website-react/static/js/787.b791b68b.chunk.js",
     "static/media/jewelthief_logo.png": "/vance-studios-website-react/static/media/jewelthief_logo.3771b2450d3760be20dc.png",
     "static/media/mxc_logo.png": "/vance-studios-website-react/static/media/mxc_logo.0f1c01bd161fe6164703.png",
@@ -10,12 +10,12 @@
     "static/media/vpng2.png": "/vance-studios-website-react/static/media/vpng2.0bd1f66f84c1c4793678.png",
     "static/media/vpng3.png": "/vance-studios-website-react/static/media/vpng3.3ecb8e6bfa450fa611f9.png",
     "index.html": "/vance-studios-website-react/index.html",
-    "main.df44121a.css.map": "/vance-studios-website-react/static/css/main.df44121a.css.map",
-    "main.b2b07bf0.js.map": "/vance-studios-website-react/static/js/main.b2b07bf0.js.map",
+    "main.7415b865.css.map": "/vance-studios-website-react/static/css/main.7415b865.css.map",
+    "main.2d15dfab.js.map": "/vance-studios-website-react/static/js/main.2d15dfab.js.map",
     "787.b791b68b.chunk.js.map": "/vance-studios-website-react/static/js/787.b791b68b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df44121a.css",
-    "static/js/main.b2b07bf0.js"
+    "static/css/main.7415b865.css",
+    "static/js/main.2d15dfab.js"
   ]
 }
