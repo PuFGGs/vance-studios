@@ -1,0 +1,12 @@
+.Contact
+{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: var(--main-color);
+    gap: 15px;
+    margin-bottom: 25px;
+}
