@@ -1,0 +1,44 @@
+.Header {
+  background-color: var(--main-color);
+  max-height: 5vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.Header-vance-logo {
+  height: 5vh;
+  padding: 1px;
+  pointer-events: none;
+  margin-left: 15px;
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
+}
+
+.Header-button-container
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-left: 15px;
+}
+
+.btn-primary {
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  border: transparent;
+}
+.btn-primary:active, .btn-primary:hover, .btn-primary:focus, .btn:focus
+{
+  transition: none !important;
+  box-shadow: none;
+  border: transparent;
+  border-color: transparent;
+  background-color: rgb(20, 20, 20);
+  color: white;
+}
