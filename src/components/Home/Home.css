@@ -40,7 +40,7 @@ h1
 
 .Home-FirstPart-Logo
 {    
-    width: 15%; /*40%  büyük logo 15% küçük logo*/
+    width: 25vh; /*80vh?? büyük logo 25vh küçük logo*/
 }
 
 .Home-SecondPart
@@ -53,6 +53,7 @@ h1
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     gap: 50px;
 }
 
@@ -66,5 +67,6 @@ h1
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     gap: 50px;
 }

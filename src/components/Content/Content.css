@@ -2,7 +2,7 @@
 .Content
 {
     width: fit-content;
-    min-width: 20vw;
+    min-width: 35vh;
     height: fit-content;
     display: flex;
     flex-direction: column;
@@ -12,7 +12,7 @@
     background-color: var(--main-color);
     border-radius: 25px;
     padding: 10px;
-    font-size: 1vw;
+    font-size: 1vh;
 }
 
 .Content-Img
