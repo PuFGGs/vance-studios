@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/vance-studios-website-react/static/css/main.b91d3f02.css",
-    "main.js": "/vance-studios-website-react/static/js/main.852dc23e.js",
+    "main.css": "/vance-studios-website-react/static/css/main.df44121a.css",
+    "main.js": "/vance-studios-website-react/static/js/main.b2b07bf0.js",
     "static/js/787.b791b68b.chunk.js": "/vance-studios-website-react/static/js/787.b791b68b.chunk.js",
     "static/media/jewelthief_logo.png": "/vance-studios-website-react/static/media/jewelthief_logo.3771b2450d3760be20dc.png",
     "static/media/mxc_logo.png": "/vance-studios-website-react/static/media/mxc_logo.0f1c01bd161fe6164703.png",
+    "static/media/pufggs_logo.png": "/vance-studios-website-react/static/media/pufggs_logo.220cf1edbe5a54e3c494.png",
     "static/media/er_logo.png": "/vance-studios-website-react/static/media/er_logo.0e623c036e2bb7fc9646.png",
     "static/media/vpng2.png": "/vance-studios-website-react/static/media/vpng2.0bd1f66f84c1c4793678.png",
     "static/media/vpng3.png": "/vance-studios-website-react/static/media/vpng3.3ecb8e6bfa450fa611f9.png",
     "index.html": "/vance-studios-website-react/index.html",
-    "main.b91d3f02.css.map": "/vance-studios-website-react/static/css/main.b91d3f02.css.map",
-    "main.852dc23e.js.map": "/vance-studios-website-react/static/js/main.852dc23e.js.map",
+    "main.df44121a.css.map": "/vance-studios-website-react/static/css/main.df44121a.css.map",
+    "main.b2b07bf0.js.map": "/vance-studios-website-react/static/js/main.b2b07bf0.js.map",
     "787.b791b68b.chunk.js.map": "/vance-studios-website-react/static/js/787.b791b68b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b91d3f02.css",
-    "static/js/main.852dc23e.js"
+    "static/css/main.df44121a.css",
+    "static/js/main.b2b07bf0.js"
   ]
 }
