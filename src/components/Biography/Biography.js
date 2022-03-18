@@ -5,7 +5,7 @@ class Biography extends React.Component {
     render() {
         return (
             <div className='Biography'>
-                <img src={this.props.image} className='Biography-Logo noselect' />
+                <img src={this.props.image} alt='Team Image' className='Biography-Logo noselect' />
                 <p>
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,

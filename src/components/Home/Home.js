@@ -1,5 +1,5 @@
 import vance_logo from './assets/images/vpng3.png';
-import vance_logo2 from './assets/images/vpng2.png';
+// import vance_logo2 from './assets/images/vpng2.png';
 
 import './Home.css';
 import Biography from '../Biography/Biography';
@@ -11,7 +11,7 @@ function Home() {
   return (
     <div className='Home'>
       <div className='Home-FirstPart'>
-        <img src={vance_logo} className='Home-FirstPart-Logo noselect' />
+        <img alt='Vance Logo' src={vance_logo} className='Home-FirstPart-Logo noselect' />
       </div>
 
       <h1>OUR PROJECTS</h1>
