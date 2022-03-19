@@ -9,7 +9,7 @@ class Content extends React.Component {
         var progressBar = <ProgressBar animated now={progress} />
         
         return (
-            <div className='Content noselect'>
+            <div className='Content noselect' style={{ borderRadius: this.props.borderRadius || '0px' }}>
                 <img className='Content-Img' alt='Image' src={this.props.image} style={{ borderRadius: this.props.borderRadius || '0px' }} />
                 <h3>{this.props.title}</h3>
                 <p>{this.props.type}</p>

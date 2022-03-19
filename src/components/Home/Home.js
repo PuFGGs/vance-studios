@@ -1,5 +1,4 @@
 import vance_logo from './assets/images/vpng3.png';
-// import vance_logo2 from './assets/images/vpng2.png';
 
 import './Home.css';
 import Biography from '../Biography/Biography';
