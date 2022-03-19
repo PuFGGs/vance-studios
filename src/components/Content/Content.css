@@ -20,7 +20,7 @@
     justify-content: center;
     text-align: center;
     background-color: var(--second-color);
-    border: solid 2px var(--main-color);
+    border: solid var(--main-color);
     border-radius: 25px;
     padding: 10px;
     font-size: 1vh;
@@ -45,6 +45,8 @@
 
 .progress-bar
 {
+    color: var(--second-color);
+    text-align: center;
     background-color: var(--second-color);
 }
 

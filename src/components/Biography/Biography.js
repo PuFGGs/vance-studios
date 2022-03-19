@@ -6,40 +6,34 @@ class Biography extends React.Component {
         return (
             <div className='Biography'>
                 <img src={this.props.image} alt='Team Image' className='Biography-Logo noselect' />
-                <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took a galley of type and scrambled it to make a type
-                    specimen book. It has survived not only five centuries, but also the leap into
-                    electronic typesetting, remaining essentially unchanged. It was popularised in the
-                    1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
-                    recently with desktop publishing software like Aldus PageMaker including versions
-                    of Lorem Ipsum.
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took a galley of type and scrambled it to make a type
-                    specimen book. It has survived not only five centuries, but also the leap into
-                    electronic typesetting, remaining essentially unchanged. It was popularised in the
-                    1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
-                    recently with desktop publishing software like Aldus PageMaker including versions
-                    of Lorem Ipsum.
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took a galley of type and scrambled it to make a type
-                    specimen book. It has survived not only five centuries, but also the leap into
-                    electronic typesetting, remaining essentially unchanged. It was popularised in the
-                    1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
-                    recently with desktop publishing software like Aldus PageMaker including versions
-                    of Lorem Ipsum.
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took a galley of type and scrambled it to make a type
-                    specimen book. It has survived not only five centuries, but also the leap into
-                    electronic typesetting, remaining essentially unchanged. It was popularised in the
-                    1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
-                    recently with desktop publishing software like Aldus PageMaker including versions
-                    of Lorem Ipsum.
-                </p>
+                <div>
+                    <p>
+                            First, Vance was founded in 2018. In those days, it was knowns for
+                        business programs. In 2020 we decided to make games and changed our name
+                        to Vance Studios.
+                    </p>
+                    <p>
+                            Then, we began to make our first game called Exploit Rush,
+                        which was a hyper-casual infinite runner game. We published our game
+                        at end of 2020 on Google Play Store.
+                    </p>
+                    <p>
+                            Next, we found a game jam that was an opportunity for improving
+                        our-self in that sector. Game-jam's subject was "is something missing?".
+                        We thought about it and decided to make an isometric robbery game.
+                        We did "Jewel Thief" in 3 days and had more fun doing it than we thought.
+                    </p>
+                    <p>
+                            After That, We had a little break for about three months because
+                        of some of the team member's reasons. End of the break,
+                        we engaged in another game-jam which was about "hacking in games".
+                        We prepared our blackjack game that can accomplish cheats in the game.
+                    </p>
+                    <p>
+                            Finally, We are working on a hacking simulation game called
+                        "HackerGame". We have plans to publish that game mid of 2022.
+                    </p>
+                </div>
             </div>
         );
     }

@@ -13,7 +13,7 @@ class OurProjects extends React.Component {
                 <Content image={jt_logo} title='JEWEL THIEF' type='Isometric Robbery Game' />
                 <Content image={er_logo} title='EXPLOIT RUSH' type='Hyper Casual Game' />
                 <Content image={mxc_logo} title='MEXICAN CASINO' type='Blackjack Table Game' />
-                <Content image={hg_logo} title='HACKERGAME' type='Hacking Simulation Game' progress='25' />
+                <Content image={hg_logo} title='HACKERGAME (WIP)' type='Hacking Simulation Game' progress='25' />
             </div>
         );
     }

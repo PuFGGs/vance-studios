@@ -6,7 +6,7 @@ class Content extends React.Component {
     render() {
         var progress = this.props.progress;
         var progressbool = this.props.progress > 0;
-        var progressBar = <ProgressBar animated now={progress}  />
+        var progressBar = <ProgressBar animated now={progress} />
         
         return (
             <div className='Content noselect'>

@@ -1,10 +1,9 @@
 
-.Biography > p
+.Biography > div > p
 {
     font-size: 1.5vh;
     margin-right: 25px;
     color: var(--third-color);
-    float: right;
 }
 
 .Biography
