@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/vance-studios/static/css/main.7415b865.css",
-    "main.js": "/vance-studios/static/js/main.53d730b6.js",
+    "main.css": "/vance-studios/static/css/main.711a4f02.css",
+    "main.js": "/vance-studios/static/js/main.49d76454.js",
     "static/js/787.b791b68b.chunk.js": "/vance-studios/static/js/787.b791b68b.chunk.js",
     "static/media/jewelthief_logo.png": "/vance-studios/static/media/jewelthief_logo.3771b2450d3760be20dc.png",
     "static/media/mxc_logo.png": "/vance-studios/static/media/mxc_logo.0f1c01bd161fe6164703.png",
     "static/media/pufggs_logo.png": "/vance-studios/static/media/pufggs_logo.220cf1edbe5a54e3c494.png",
     "static/media/er_logo.png": "/vance-studios/static/media/er_logo.0e623c036e2bb7fc9646.png",
     "static/media/vpng2.png": "/vance-studios/static/media/vpng2.0bd1f66f84c1c4793678.png",
+    "static/media/hydra_logo.png": "/vance-studios/static/media/hydra_logo.095c2b7e84a74ea20b53.png",
+    "static/media/kaancer_logo.png": "/vance-studios/static/media/kaancer_logo.198f74b78e8256daf4da.png",
     "static/media/vpng3.png": "/vance-studios/static/media/vpng3.3ecb8e6bfa450fa611f9.png",
     "index.html": "/vance-studios/index.html",
-    "main.7415b865.css.map": "/vance-studios/static/css/main.7415b865.css.map",
-    "main.53d730b6.js.map": "/vance-studios/static/js/main.53d730b6.js.map",
+    "main.711a4f02.css.map": "/vance-studios/static/css/main.711a4f02.css.map",
+    "main.49d76454.js.map": "/vance-studios/static/js/main.49d76454.js.map",
     "787.b791b68b.chunk.js.map": "/vance-studios/static/js/787.b791b68b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7415b865.css",
-    "static/js/main.53d730b6.js"
+    "static/css/main.711a4f02.css",
+    "static/js/main.49d76454.js"
   ]
 }
