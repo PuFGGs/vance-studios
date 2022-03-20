@@ -12,12 +12,9 @@ function Home() {
       <div className='Home-FirstPart'>
         <img alt='Vance Logo' src={vance_logo} className='Home-FirstPart-Logo noselect' />
       </div>
+      <OurProjects titleText={RepeatText("Projects", 200)}/>
 
-      <h1>OUR PROJECTS</h1>
-      <OurProjects/>
-
-      <h1>OUR TEAM</h1>
-      <OurTeam/>
+      <OurTeam titleText={RepeatText("Team", 200)}/>
 
       <h1>BIOGRAPHY</h1>
       <Biography image={vance_logo}/>
@@ -28,6 +25,16 @@ function Home() {
   );
 }
 
+function RepeatText(text, n)
+{
+    var dummy = text;
+    for (let index = 0; index < n; index++) {
+        dummy += " " + text
+        if (index % 8 == 0)
+        dummy += "\n"
+    }
+    return dummy;
+}
 
 
 export default Home;

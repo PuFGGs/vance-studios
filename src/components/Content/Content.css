@@ -20,12 +20,12 @@
     justify-content: center;
     text-align: center;
     background-color: var(--second-color);
-    border: solid var(--main-color);
+    border: solid 1.5px var(--main-color);
     padding: 10px;
     font-size: 1vh;
     color: var(--main-color);
     cursor: pointer;
-    box-shadow: 0px 0px 40px 10px black;
+    box-shadow: 0px 0px 30px 20px black;
 }
 
 .Content-Img

@@ -1,4 +1,3 @@
-import './OurTeam.css';
 import React from 'react';
 import pufggs_logo from './assets/images/pufggs_logo.png';
 import hydra_logo from './assets/images/hydra_logo.png';
@@ -9,7 +8,8 @@ import Content from '../Content/Content';
 class OurTeam extends React.Component {
     render() {
         return (
-            <div className='OurTeam'>
+            <div className='ListPart'>
+                <h1 className='noselect'>{this.props.titleText}</h1>
                 <Content image={pufggs_logo} title='PuFGGs' type='Software Developer' borderRadius='15px' />
                 <Content image={hydra_logo} title='Hydra Artz' type='Graphic Designer' borderRadius='15px' />
                 <Content image={newbiedrummer_logo} title='NewbieDrummer' type='Level Designer / Sound Designer' borderRadius='15px' />
@@ -18,8 +18,5 @@ class OurTeam extends React.Component {
         );
     }
 }
-
-
-
 
 export default OurTeam;

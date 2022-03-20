@@ -1,5 +1,6 @@
-.OurTeam
+.ListPart
 {
+    position: relative;
     width: 100%;
     height: fit-content;
     min-height: 100px;
@@ -10,4 +11,29 @@
     align-items: center;
     flex-wrap: wrap;
     gap: 50px;
+    padding: 50px;
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+
+.ListPart > h1
+{
+    white-space: pre;
+    overflow-wrap: break-word;
+    margin: 0;
+    padding: 0;
+    left: -5%;
+    top: -100%;
+    width: 100%;
+    font-size: 10vh;
+    height: fit-content;
+    position: absolute;
+    transform: skew(0deg, -15deg);
+    text-align: left;
+    color: var(--second-color);
+    text-shadow: 
+    -1px -1px 0 var(--main-color),
+    1px -1px 0 var(--main-color),
+    -1px 1px 0 var(--main-color), 
+    1px 1px 0 var(--main-color);
 }
