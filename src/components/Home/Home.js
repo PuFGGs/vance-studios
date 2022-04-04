@@ -14,6 +14,8 @@ function Home() {
       </div>
       <OurProjects titleText={RepeatText("Projects", 200)}/>
 
+      <div className='Home-Splitter'></div>
+      
       <OurTeam titleText={RepeatText("Team", 200)}/>
 
       <h1>BIOGRAPHY</h1>

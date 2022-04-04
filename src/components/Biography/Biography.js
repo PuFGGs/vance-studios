@@ -8,14 +8,12 @@ class Biography extends React.Component {
                 <img src={this.props.image} alt='Team Image' className='Biography-Logo noselect' />
                 <div>
                     <p>
-                            First, Vance was founded in 2018. In those days, it was knowns for
-                        business programs. In 2020 we decided to make games and changed our name
-                        to Vance Studios.
+                            Vance was founded in 2018, first started by creating business related softwares.
+                        In 2020 we decided to start making games and changed our name to Vance Studios.
                     </p>
                     <p>
-                            Then, we began to make our first game called Exploit Rush,
-                        which was a hyper-casual infinite runner game. We published our game
-                        at end of 2020 on Google Play Store.
+                            Our first game was a hyper-casual mobile game called Exploit Rush.
+                        We published this game at end of 2020 on Google Play Store.
                     </p>
                     <p>
                             Next, we found a game jam that was an opportunity for improving
@@ -24,14 +22,14 @@ class Biography extends React.Component {
                         We did "Jewel Thief" in 3 days and had more fun doing it than we thought.
                     </p>
                     <p>
-                            After That, We had a little break for about three months because
-                        of some of the team member's reasons. End of the break,
-                        we engaged in another game-jam which was about "hacking in games".
-                        We prepared our blackjack game that can accomplish cheats in the game.
+                            After doing nothing for three months, we engaged in another Game Jam which was about cheating in games.
+                        That's when we created our Blackjack game MXCasino.
                     </p>
                     <p>
-                            Finally, We are working on a hacking simulation game called
-                        "HackerGame". We have plans to publish that game mid of 2022.
+                            Currently we are working on a 2D hacking game called "HackerGame".
+                            The idea has arised from our passion about hacking games such as Hacknet and Uplink.
+                            Hackergame is our biggest and most detailed project yet.
+
                     </p>
                 </div>
             </div>
