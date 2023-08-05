@@ -40,6 +40,14 @@ h1
     box-shadow: 0px 0px 40px 10px black;
 }
 
+.Home-SecondPart
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .Home-Splitter
 {
     height: .2vh;
